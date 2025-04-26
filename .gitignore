@@ -13,11 +13,11 @@
 /_theme_files
 # testing
 /coverage
-
+.env
 # next.js
 /.next/
 /out/
-
+/properties2.json
 # production
 /build
 
